@@ -5,7 +5,6 @@ The advent of Arduino microcontrollers has revolutionized the world of electroni
 ├ src  
 │  └ pump  
 └ schema  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ part  
 
 ## Documentation
 You'll find instructions and full documentation on [HiBit](https://www.hibit.dev/posts/128/how-to-control-mini-water-pump-with-arduino). It includes detailed info on how to wire and use the module.
